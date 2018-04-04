@@ -18,6 +18,6 @@ public class Pizza {
 	public String getPizzaName() {
 		return pizzaName;
 	}
-	
+
 
 }
